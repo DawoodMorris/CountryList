@@ -1,0 +1,183 @@
+Afghanistan|afg|AFN|
+Albania|alb|ALL|
+Algeria|dza|DZD|
+Andorra|and|EUR|
+Angola|ago|AOA|
+Antigua and Barbuda|atg|XCD|
+Argentina|arg|ARS|
+Armenia|arm|AMD|
+Australia|aus|AUD|
+Austria|aut|EUR|
+Azerbaijan|aze|AZN|
+Bahamas|bhs|BSD|
+Bahrain|bhr|BHD|
+Bangladesh|bgd|BDT|
+Barbados|brb|BBD|
+Belarus|blr|BYN|
+Belgium|bel|EUR|
+Belize|blz|BZD|
+Benin|ben|XOF|
+Bhutan|btn|INR|
+Bolivia|bol|BOB|
+Bosnia and Herzegovina|bih|BAM|
+Botswana|bwa|BWP|
+Brazil|bra|BRL|
+Brunei |brn|BND|
+Bulgaria|bgr|BGN|
+Burkina Faso|bfa|XOF|
+Burundi|bdi|BIF|
+Côte d'Ivoire|civ|XOF|
+Cambodia|khm|KHR|
+Cameroon|cmr|XAF|
+Canada|can|CAD|
+Central African Republic|caf|XAF|
+Chad|tcd|XAF|
+Chile|chl|CLP|
+China|chn|CNY|
+Colombia|col|COP|
+Comoros|com|KMF|
+Congo|cod|CDF|
+Czech Republic|cze|CZK|
+Costa Rica|cri|CRC|
+Croatia|hrv|HRK|
+Cuba|cub|CUP|
+Cyprus|cyp|EUR|
+Denmark|dnk|DKK|
+Djibouti|dji|DJF|
+Dominica|dma|XCD|
+Dominican Republic|dom|DOP|
+Ecuador|ecu|USD|
+Egypt|egy|EGP|
+El Salvador|slv|SVC|
+Equatorial Guinea|gnq|XAF|
+Eritrea|eri|ERN|
+Estonia|est|EUR|
+Eswatini (fmr. "Swaziland")|swz|SZL|
+Ethiopia|eth|ETB|
+Fiji|fji|FJD|
+Finland|fin|EUR|
+France|fra|EUR|
+Gabon|gab|XAF|
+Gambia|gmb|GMD|
+Georgia|geo|GEL|
+Germany|deu|EUR|
+Ghana|gha|GHS|
+Greece|grc|EUR|
+Grenada|grd|XCD|
+Guatemala|gtm|GTQ|
+Guinea|gin|GNF|
+Guinea-Bissau|gnb|XOF|
+Guyana|guy|GYD|
+Haiti|hti|HTG|
+Holy See|vat|EUR|
+Honduras|hnd|HNL|
+Hungary|hun|HUF|
+Iceland|isl|ISK|
+India|ind|INR|
+Indonesia|idn|IDR|
+Iran|irn|IRR|
+Iraq|irq|IQD|
+Ireland|irl|EUR|
+Israel|isr|ILS|
+Italy|ita|EUR|
+Jamaica|jam|JMD|
+Japan|jpn|JPY|
+Jordan|jor|JOD|
+Kazakhstan|kaz|KZT|
+Kenya|ken|KES|
+Kiribati|kir|AUD|
+Kuwait|kwt|KWD|
+Kyrgyzstan|kgz|KGS|
+Latvia|lva|EUR|
+Lebanon|lbn|LBP|
+Lesotho|lso|LSL|
+Liberia|lbr|LRD|
+Libya|lby|LYD|
+Liechtenstein|lie|CHF|
+Lithuania|ltu|EUR|
+Luxembourg|lux|EUR|
+Madagascar|mdg|MGA|
+Malawi|mwi|MWK|
+Malaysia|mys|MYR|
+Maldives|mdv|MVR|
+Mali|mli|XOF|
+Malta|mlt|EUR|USD|
+Marshall Islands|mhl|USD|
+Mauritania|mrt|MRU|
+Mauritius|mus|MUR|
+Mexico|mex|MXN|
+Micronesia|fsm|USD|
+Moldova|mda|MDL|
+Monaco|mco|EUR|
+Mongolia|mng|MNT|
+Montenegro|mne|EUR|
+Morocco|mar|MAD|
+Mozambique|moz|MZN|
+Namibia|nam|NAD|
+Nauru|nru|AUD|
+Nepal|npl|NPR|
+Netherlands|ant|EUR|
+New Zealand|nzl|NZD|
+Nicaragua|nic|NIO|
+Niger|ner|XOF|
+Nigeria|nga|NGN|
+Norway|nor|NOK|
+Oman|omn|OMR|
+Pakistan|pak|PKR|
+Palau|plw|USD|
+Panama|pan|PAB|
+Papua New Guinea|png|PGK|
+Paraguay|pry|PYG|
+Peru|per|PEN|
+Philippines|phl|PHP|
+Poland|pol|PLN|
+Portugal|prt|EUR|
+Qatar|qat|QAR|
+Romania|rou|RON|
+Russia|rus|RUB|
+Rwanda|rwa|RWF|
+Saint Kitts and Nevis|kna|XCD|
+Saint Lucia|lca|XCD|
+Saint Vincent and the Grenadines|vct|XCD|
+Samoa|asm|WST|
+San Marino|smr|EUR|
+Sao Tome and Principe|stp|STN|
+Saudi Arabia|sau|SAR|
+Senegal|sen|XOF|
+Serbia|srb|RSD
+Seychelles|syc|SCR|
+Sierra Leone|sle|SLL|
+Singapore|sgp|SGD|
+Slovakia|svk|EUR|
+Slovenia|svn|EUR|
+Solomon Islands|slb|SBD|
+Somalia|som|SOS|
+South Africa|zaf|ZAR|
+Spain|esp|EUR|
+Sri Lanka|lka|LKR|
+Sudan|sdn|SDG|
+Suriname|sur|SRD|
+Sweden|swe|SEK|
+Switzerland|che|CHF|
+Syria|syr|SYP|
+Tajikistan|tjk|TJS|
+Tanzania|tza|TZS|
+Thailand|tha|THB|
+Timor-Leste|tls|USD|
+Togo|tgo|XOF|
+Tonga|ton|TOP|
+Trinidad and Tobago|tto|TTD|
+Tunisia|tun|TND|
+Turkey|tur|TRY|
+Turkmenistan|tkm|TMT|
+Tuvalu|tuv|AUD|
+Uganda|uga|UGX|
+Ukraine|ukr|UAH|
+United Arab Emirates|are|AED|
+United Kingdom|gbr|GBP|
+Uruguay|ury|UYU|
+Uzbekistan|uzb|UZS|
+Vanuatu|vut|VUV|
+Venezuela|ven|VES|
+Yemen|yem|YER|
+Zambia|zmb|ZWL|
