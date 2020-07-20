@@ -1,4 +1,4 @@
-# This repo contains world country list of 183 countries, their 3-digit ISO codes and their currencies
+# This repo contains world country list of 186 countries, their 3-digit ISO codes and their currencies
 The file is named <b>ctr_lst_iso_cc.txt</b>br>
 Each line contains COUNTRY_NAME | 3_DIGIT_ISO_CODE | CURRENCY<br>
 Example: Malawi|mwi|mwk<br>
